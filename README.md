@@ -4,6 +4,8 @@
 
 EMS快递Skill提供中国邮政速递物流的全方位服务。本Skill集成了EMS官方服务，为用户提供便捷的快递查询、寄件预约、网点查询等功能。
 
+祝天下学子蟾宫折桂，金榜题名。
+
 ## 仓库地址
 
 - https://github.com/warfieldodakaclaude8190-source/ems-express-skill
