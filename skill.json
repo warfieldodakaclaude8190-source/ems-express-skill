@@ -1,0 +1,73 @@
+{
+  "name": "ems-express",
+  "version": "1.0.0",
+  "title": "EMS快递服务",
+  "description": "EMS快递信息查询与在线服务。查询快递物流、寄件预约、网点查询、价格查询、快递常识、在线客服；支持快递单号查询、查进度、寄件预约。",
+  "author": "好雨知时节/广东深圳",
+  "createdAt": "2026-04-18",
+  "updatedAt": "2026-04-18",
+  "platforms": [
+    "Trae IDE",
+    "Trae Assistant"
+  ],
+  "categories": [
+    "物流",
+    "快递",
+    "生活服务"
+  ],
+  "keywords": [
+    "EMS",
+    "快递",
+    "物流",
+    "查询",
+    "寄件"
+  ],
+  "features": [
+    {
+      "name": "快速下单通道",
+      "description": "便捷的在线寄件下单服务",
+      "url": "https://www.ems.com.cn/client_app?to=%2Fdomestic_order"
+    },
+    {
+      "name": "查快递",
+      "description": "输入快递单号查询物流状态",
+      "url": "https://www.ems.com.cn/queryList?current=0"
+    },
+    {
+      "name": "网点查询",
+      "description": "查询附近的EMS营业网点",
+      "url": "https://www.ems.com.cn/outlet_inquiry"
+    },
+    {
+      "name": "寄件预约",
+      "description": "在线预约寄件服务"
+    },
+    {
+      "name": "价格查询",
+      "description": "根据寄件和收件地址查询快递费用"
+    },
+    {
+      "name": "快递常识",
+      "description": "快递包装指南、禁寄物品查询等"
+    },
+    {
+      "name": "在线客服",
+      "description": "常见问题解答、人工客服咨询"
+    }
+  ],
+  "dependencies": {},
+  "configuration": {
+    "apiBaseUrl": "https://www.ems.com.cn",
+    "customerService": "11183"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "<repository-url>"
+  },
+  "support": {
+    "email": "",
+    "phone": "11183",
+    "website": "https://www.ems.com.cn"
+  }
+}
